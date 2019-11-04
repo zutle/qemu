@@ -213,4 +213,6 @@
   <reg name="xmm15" bitsize="128" type="vec128"/>
 
   <reg name="mxcsr" bitsize="32" type="x64_mxcsr" group="vector"/>
+
+  <!-- TODO: Add drx, and a few more -->
 </feature>
